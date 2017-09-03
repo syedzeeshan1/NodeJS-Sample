@@ -11,7 +11,7 @@ app.get('/', function(req,res){
 	});
 });
 ig.use({
-	access_token : '1479648063.1677ed0.cbf01228479a408e81b6582e3747c864',
+	access_token : 'YOUR API KEY GOES HERE',
 });
 app.listen(8080);
 console.log('App has started!');
